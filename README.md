@@ -9,6 +9,9 @@ Install the following dependencies:
 > npm install -g expo-cli
 > expo init ProjectName
 > cd ProjectName
+
+
+
 > npm install react-navigation
 > npm/ expo install react-native-screens react-native-safe-area-context
 
